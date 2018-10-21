@@ -1,0 +1,15 @@
+{
+  "name": "aula6",
+  "version": "1.0.0",
+  "description": "Aula sobre formul�rios Web com v�rios exemplos",
+  "main": "server-aluno-3.js",
+  "scripts": {
+    "test": "node server-aluno-3.js"
+  },
+  "author": "jcr",
+  "license": "ISC",
+  "dependencies": {
+    "jsonfile": "^5.0.0",
+    "pug": "^2.0.3"
+  }
+}
